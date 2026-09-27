@@ -1,0 +1,16 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+data/
+backups/
+.pytest_cache/
+_arch_*.txt
+_pdf_*
+_stream_sample.txt
+_template_extract.txt
+_doc.xml
+_build_catalog.py
+_make_report.py
+_plan_preview.txt
+_shots/

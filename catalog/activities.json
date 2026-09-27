@@ -1,0 +1,56 @@
+[
+  {
+    "id": "a_walk_in",
+    "title": "Спокойная ходьба по комнате или коридору",
+    "format": "indoors",
+    "duration_sec": 600,
+    "instruction": "Ходите в удобном темпе, без спешки и без задержки дыхания.",
+    "source_url": "https://www.who.int/news-room/fact-sheets/detail/physical-activity",
+    "reviewed_at": "2026-09-20"
+  },
+  {
+    "id": "a_stretch_in",
+    "title": "Мягкая растяжка плеч и спины",
+    "format": "indoors",
+    "duration_sec": 300,
+    "instruction": "Тянитесь до ощущения натяжения, не до боли. Дышите ровно.",
+    "source_url": "https://www.who.int/news-room/fact-sheets/detail/physical-activity",
+    "reviewed_at": "2026-09-20"
+  },
+  {
+    "id": "a_stairs_in",
+    "title": "Медленный подъём по лестнице",
+    "format": "indoors",
+    "duration_sec": 180,
+    "instruction": "Поднимайтесь спокойно и держитесь за перила, если они есть.",
+    "source_url": "https://www.who.int/news-room/fact-sheets/detail/physical-activity",
+    "reviewed_at": "2026-09-20"
+  },
+  {
+    "id": "a_mobility_in",
+    "title": "Разминка суставов стоя",
+    "format": "indoors",
+    "duration_sec": 240,
+    "instruction": "Круги плечами, кистями и стопами. Амплитуда удобная.",
+    "source_url": "https://www.who.int/news-room/fact-sheets/detail/physical-activity",
+    "reviewed_at": "2026-09-20"
+  },
+  {
+    "id": "a_walk_out",
+    "title": "Прогулка на улице",
+    "format": "outdoors",
+    "duration_sec": 600,
+    "instruction": "Идите по освещённому месту в удобном темпе.",
+    "source_url": "https://www.who.int/news-room/fact-sheets/detail/physical-activity",
+    "reviewed_at": "2026-09-20"
+  },
+  {
+    "id": "a_breath_out",
+    "title": "Спокойная прогулка с длинным выдохом",
+    "format": "outdoors",
+    "duration_sec": 300,
+    "instruction": "На выдохе не задерживайте дыхание. Темп разговорный.",
+    "source_url": "https://www.who.int/news-room/fact-sheets/detail/physical-activity",
+    "reviewed_at": "2026-09-20"
+  }
+]

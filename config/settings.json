@@ -1,0 +1,23 @@
+{
+  "generator": "catalog",
+  "schema_version": 1,
+  "db_path": "data/app.sqlite3",
+  "catalog_path": "catalog/manifest.json",
+  "input_max_chars": 500,
+  "message_max_chars": 3500,
+  "output_messages": 4,
+  "generation_deadline_sec": 15,
+  "workers": 2,
+  "queue_capacity": 10,
+  "user_cooldown_sec": 30,
+  "user_jobs_per_24h": 10,
+  "session_ttl_min": 30,
+  "plan_retention_days": 7,
+  "log_retention_days": 7,
+  "backup_retention_days": 3,
+  "price_max_age_days": 30,
+  "poll_timeout_sec": 30,
+  "send_timeout_sec": 5,
+  "send_retry_delays_sec": [1, 2],
+  "sqlite_busy_timeout_ms": 1000
+}

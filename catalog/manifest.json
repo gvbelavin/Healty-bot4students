@@ -1,0 +1,8 @@
+{
+  "version": "2026-09-20",
+  "generated_at": "2026-09-20T00:00:00Z",
+  "ingredients_file": "ingredients.json",
+  "recipes_file": "recipes.json",
+  "activities_file": "activities.json",
+  "workouts_file": "workouts.json"
+}

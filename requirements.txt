@@ -1,2 +1,2 @@
-aiogram
-matplotlib
+python-telegram-bot==21.10
+pytest==8.3.4

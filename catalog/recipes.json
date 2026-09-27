@@ -1,0 +1,378 @@
+[
+  {
+    "id": "b_yogurt",
+    "slot": "breakfast",
+    "title": "Йогурт с яблоком и хлопьями",
+    "ingredients": [
+      {
+        "ingredient_id": "yogurt",
+        "quantity": 100
+      },
+      {
+        "ingredient_id": "apple",
+        "quantity": 1
+      },
+      {
+        "ingredient_id": "oats",
+        "quantity": 40
+      }
+    ],
+    "required_kitchen": [],
+    "cooking_min": 0,
+    "convenience": false,
+    "steps": [
+      "Выложите йогурт в миску.",
+      "Добавьте хлопья и нарезанное яблоко."
+    ],
+    "tip": "Если нет ножа, яблоко можно съесть отдельно.",
+    "source_url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+    "reviewed_at": "2026-09-20"
+  },
+  {
+    "id": "b_oats",
+    "slot": "breakfast",
+    "title": "Овсянка на молоке",
+    "ingredients": [
+      {
+        "ingredient_id": "oats",
+        "quantity": 60
+      },
+      {
+        "ingredient_id": "milk",
+        "quantity": 200
+      },
+      {
+        "ingredient_id": "banana",
+        "quantity": 1
+      }
+    ],
+    "required_kitchen": [
+      "kettle"
+    ],
+    "cooking_min": 10,
+    "convenience": false,
+    "steps": [
+      "Вскипятите воду в чайнике.",
+      "Залейте хлопья горячим молоком или смесью молока и воды.",
+      "Через 10 минут добавьте банан."
+    ],
+    "tip": "Молоко можно разбавить водой, если его мало.",
+    "source_url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+    "reviewed_at": "2026-09-20"
+  },
+  {
+    "id": "b_eggs",
+    "slot": "breakfast",
+    "title": "Яичница с хлебом",
+    "ingredients": [
+      {
+        "ingredient_id": "egg",
+        "quantity": 2
+      },
+      {
+        "ingredient_id": "bread",
+        "quantity": 2
+      },
+      {
+        "ingredient_id": "oil",
+        "quantity": 5
+      }
+    ],
+    "required_kitchen": [
+      "stove"
+    ],
+    "cooking_min": 12,
+    "convenience": false,
+    "steps": [
+      "Нагрейте сковороду с маслом.",
+      "Вылейте яйца и готовьте до схватывания.",
+      "Подавайте с хлебом."
+    ],
+    "tip": "Хлеб можно подсушить на сухой сковороде.",
+    "source_url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+    "reviewed_at": "2026-09-20"
+  },
+  {
+    "id": "b_instant",
+    "slot": "breakfast",
+    "title": "Быстрая лапша",
+    "ingredients": [
+      {
+        "ingredient_id": "noodles",
+        "quantity": 1
+      }
+    ],
+    "required_kitchen": [
+      "kettle"
+    ],
+    "cooking_min": 5,
+    "convenience": true,
+    "steps": [
+      "Вскипятите воду.",
+      "Залейте лапшу и подождите по инструкции на пачке."
+    ],
+    "tip": "Это полуфабрикат: удобно, когда нет времени готовить.",
+    "source_url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+    "reviewed_at": "2026-09-20"
+  },
+  {
+    "id": "l_buckwheat",
+    "slot": "lunch",
+    "title": "Гречка с овощами",
+    "ingredients": [
+      {
+        "ingredient_id": "buckwheat",
+        "quantity": 80
+      },
+      {
+        "ingredient_id": "vegetables",
+        "quantity": 100
+      },
+      {
+        "ingredient_id": "oil",
+        "quantity": 5
+      }
+    ],
+    "required_kitchen": [
+      "stove"
+    ],
+    "cooking_min": 20,
+    "convenience": false,
+    "steps": [
+      "Промойте гречку и залейте водой.",
+      "Варите около 15 минут.",
+      "Добавьте овощи и масло, прогрейте ещё 5 минут."
+    ],
+    "tip": "Овощную смесь не размораживайте заранее.",
+    "source_url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+    "reviewed_at": "2026-09-20"
+  },
+  {
+    "id": "l_pasta",
+    "slot": "lunch",
+    "title": "Макароны с овощами",
+    "ingredients": [
+      {
+        "ingredient_id": "pasta",
+        "quantity": 80
+      },
+      {
+        "ingredient_id": "vegetables",
+        "quantity": 100
+      },
+      {
+        "ingredient_id": "oil",
+        "quantity": 10
+      }
+    ],
+    "required_kitchen": [
+      "stove"
+    ],
+    "cooking_min": 20,
+    "convenience": false,
+    "steps": [
+      "Отварите макароны.",
+      "Прогрейте овощи на сковороде с маслом.",
+      "Смешайте."
+    ],
+    "tip": "Воду после макарон можно не солить, если порция и так вкусная.",
+    "source_url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+    "reviewed_at": "2026-09-20"
+  },
+  {
+    "id": "l_rice",
+    "slot": "lunch",
+    "title": "Рис с курицей и овощами",
+    "ingredients": [
+      {
+        "ingredient_id": "rice",
+        "quantity": 80
+      },
+      {
+        "ingredient_id": "chicken",
+        "quantity": 120
+      },
+      {
+        "ingredient_id": "vegetables",
+        "quantity": 100
+      }
+    ],
+    "required_kitchen": [
+      "stove"
+    ],
+    "cooking_min": 25,
+    "convenience": false,
+    "steps": [
+      "Отварите рис.",
+      "Обжарьте курицу до готовности.",
+      "Добавьте овощи и прогрейте вместе."
+    ],
+    "tip": "Курицу режьте мелко, так она быстрее приготовится.",
+    "source_url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+    "reviewed_at": "2026-09-20"
+  },
+  {
+    "id": "l_sandwich",
+    "slot": "lunch",
+    "title": "Бутерброд с тунцом",
+    "ingredients": [
+      {
+        "ingredient_id": "bread",
+        "quantity": 2
+      },
+      {
+        "ingredient_id": "tuna",
+        "quantity": 1
+      },
+      {
+        "ingredient_id": "cucumber",
+        "quantity": 1
+      }
+    ],
+    "required_kitchen": [],
+    "cooking_min": 0,
+    "convenience": false,
+    "steps": [
+      "Слейте жидкость из тунца.",
+      "Выложите на хлеб вместе с огурцом."
+    ],
+    "tip": "Если огурец негде мыть, замените план и уберите его из продуктов.",
+    "source_url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+    "reviewed_at": "2026-09-20"
+  },
+  {
+    "id": "l_dumplings",
+    "slot": "lunch",
+    "title": "Пельмени",
+    "ingredients": [
+      {
+        "ingredient_id": "dumplings",
+        "quantity": 200
+      }
+    ],
+    "required_kitchen": [
+      "stove"
+    ],
+    "cooking_min": 12,
+    "convenience": true,
+    "steps": [
+      "Доведите воду до кипения.",
+      "Варите пельмени, пока они не всплывут и не проварятся ещё несколько минут."
+    ],
+    "tip": "Это полуфабрикат. Не оставляйте их в воде после готовности.",
+    "source_url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+    "reviewed_at": "2026-09-20"
+  },
+  {
+    "id": "d_potato",
+    "slot": "dinner",
+    "title": "Картофель с луком",
+    "ingredients": [
+      {
+        "ingredient_id": "potato",
+        "quantity": 200
+      },
+      {
+        "ingredient_id": "onion",
+        "quantity": 50
+      },
+      {
+        "ingredient_id": "oil",
+        "quantity": 10
+      }
+    ],
+    "required_kitchen": [
+      "stove"
+    ],
+    "cooking_min": 30,
+    "convenience": false,
+    "steps": [
+      "Нарежьте картофель и лук.",
+      "Обжарьте на масле до мягкости картофеля."
+    ],
+    "tip": "Крышка ускоряет готовку и экономит минуты.",
+    "source_url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+    "reviewed_at": "2026-09-20"
+  },
+  {
+    "id": "d_cottage",
+    "slot": "dinner",
+    "title": "Творог с яблоком",
+    "ingredients": [
+      {
+        "ingredient_id": "cottage",
+        "quantity": 100
+      },
+      {
+        "ingredient_id": "apple",
+        "quantity": 1
+      }
+    ],
+    "required_kitchen": [],
+    "cooking_min": 0,
+    "convenience": false,
+    "steps": [
+      "Выложите творог.",
+      "Добавьте нарезанное яблоко."
+    ],
+    "tip": "Творог из холодильника можно оставить на 10 минут, если он слишком холодный.",
+    "source_url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+    "reviewed_at": "2026-09-20"
+  },
+  {
+    "id": "d_tuna",
+    "slot": "dinner",
+    "title": "Тунец с хлебом и огурцом",
+    "ingredients": [
+      {
+        "ingredient_id": "tuna",
+        "quantity": 1
+      },
+      {
+        "ingredient_id": "bread",
+        "quantity": 1
+      },
+      {
+        "ingredient_id": "cucumber",
+        "quantity": 1
+      }
+    ],
+    "required_kitchen": [],
+    "cooking_min": 8,
+    "convenience": false,
+    "steps": [
+      "Слейте жидкость из тунца.",
+      "Соберите тарелку с хлебом и огурцом."
+    ],
+    "tip": "Хлеб можно есть отдельно, если не хочется собирать бутерброд.",
+    "source_url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+    "reviewed_at": "2026-09-20"
+  },
+  {
+    "id": "d_noodles",
+    "slot": "dinner",
+    "title": "Лапша с яйцом",
+    "ingredients": [
+      {
+        "ingredient_id": "noodles",
+        "quantity": 1
+      },
+      {
+        "ingredient_id": "egg",
+        "quantity": 1
+      }
+    ],
+    "required_kitchen": [
+      "kettle"
+    ],
+    "cooking_min": 7,
+    "convenience": true,
+    "steps": [
+      "Заварите лапшу кипятком.",
+      "Отдельно залейте яйцо кипятком в кружке на несколько минут или используйте уже варёное."
+    ],
+    "tip": "Полуфабрикат подходит, если плиты нет, а чайник есть.",
+    "source_url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+    "reviewed_at": "2026-09-20"
+  }
+]

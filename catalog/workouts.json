@@ -1,0 +1,303 @@
+[
+  {
+    "id": "w_indoor_light_5",
+    "title": "Короткая тренировка без инвентаря",
+    "places": [
+      "home",
+      "dorm"
+    ],
+    "required_equipment": [],
+    "intensity": "light",
+    "duration_sec": 300,
+    "exercises": [
+      {
+        "name": "Шаги на месте",
+        "work_sec": 50,
+        "rest_sec": 10,
+        "instruction": "Поднимайте колени невысоко, спина спокойная."
+      },
+      {
+        "name": "Приседания до удобной глубины",
+        "work_sec": 50,
+        "rest_sec": 10,
+        "instruction": "Опускайтесь так, чтобы пятки не отрывались. При необходимости держитесь за стену."
+      },
+      {
+        "name": "Отжимания от стены",
+        "work_sec": 40,
+        "rest_sec": 20,
+        "instruction": "Ладони на стене, тело прямое. Двигайтесь медленно."
+      },
+      {
+        "name": "Подъёмы на носки",
+        "work_sec": 40,
+        "rest_sec": 20,
+        "instruction": "Держитесь за опору. Движение короткое и ровное."
+      },
+      {
+        "name": "Наклон к бёдрам стоя",
+        "work_sec": 40,
+        "rest_sec": 20,
+        "instruction": "Сгибайтесь с прямой спиной только до комфортной точки."
+      }
+    ],
+    "source_url": "https://www.who.int/news-room/fact-sheets/detail/physical-activity",
+    "reviewed_at": "2026-09-20"
+  },
+  {
+    "id": "w_indoor_light_10",
+    "title": "Лёгкая тренировка дома с ковриком",
+    "places": [
+      "home"
+    ],
+    "required_equipment": [
+      "mat"
+    ],
+    "intensity": "light",
+    "duration_sec": 600,
+    "exercises": [
+      {
+        "name": "Шаги на месте",
+        "work_sec": 80,
+        "rest_sec": 20,
+        "instruction": "Темп спокойный, руки двигаются свободно."
+      },
+      {
+        "name": "Приседания",
+        "work_sec": 80,
+        "rest_sec": 20,
+        "instruction": "Колени направлены в сторону носков."
+      },
+      {
+        "name": "Выпады назад с опорой",
+        "work_sec": 70,
+        "rest_sec": 30,
+        "instruction": "Держитесь за стену или стул. Шаг короткий."
+      },
+      {
+        "name": "Отжимания от стены",
+        "work_sec": 70,
+        "rest_sec": 30,
+        "instruction": "Не проваливайте поясницу."
+      },
+      {
+        "name": "Ягодичный мост на полу",
+        "work_sec": 70,
+        "rest_sec": 30,
+        "instruction": "Поднимайте таз до ровной линии, без рывка."
+      },
+      {
+        "name": "Растяжка задней поверхности бедра",
+        "work_sec": 80,
+        "rest_sec": 20,
+        "instruction": "Тянитесь мягко, колено опорной ноги можно слегка согнуть."
+      }
+    ],
+    "source_url": "https://www.who.int/news-room/fact-sheets/detail/physical-activity",
+    "reviewed_at": "2026-09-20"
+  },
+  {
+    "id": "w_home_mod_10",
+    "title": "Тренировка дома с ковриком",
+    "places": [
+      "home"
+    ],
+    "required_equipment": [
+      "mat"
+    ],
+    "intensity": "moderate",
+    "duration_sec": 600,
+    "exercises": [
+      {
+        "name": "Шаги на месте",
+        "work_sec": 80,
+        "rest_sec": 20,
+        "instruction": "Темп спокойный, руки двигаются свободно."
+      },
+      {
+        "name": "Приседания",
+        "work_sec": 80,
+        "rest_sec": 20,
+        "instruction": "Колени направлены в сторону носков."
+      },
+      {
+        "name": "Выпады назад с опорой",
+        "work_sec": 70,
+        "rest_sec": 30,
+        "instruction": "Держитесь за стену или стул. Шаг короткий."
+      },
+      {
+        "name": "Отжимания от стены",
+        "work_sec": 70,
+        "rest_sec": 30,
+        "instruction": "Не проваливайте поясницу."
+      },
+      {
+        "name": "Ягодичный мост на полу",
+        "work_sec": 70,
+        "rest_sec": 30,
+        "instruction": "Поднимайте таз до ровной линии, без рывка."
+      },
+      {
+        "name": "Растяжка задней поверхности бедра",
+        "work_sec": 80,
+        "rest_sec": 20,
+        "instruction": "Тянитесь мягко, колено опорной ноги можно слегка согнуть."
+      }
+    ],
+    "source_url": "https://www.who.int/news-room/fact-sheets/detail/physical-activity",
+    "reviewed_at": "2026-09-20"
+  },
+  {
+    "id": "w_dorm_chair_8",
+    "title": "Тренировка в комнате со стулом",
+    "places": [
+      "dorm"
+    ],
+    "required_equipment": [
+      "chair"
+    ],
+    "intensity": "moderate",
+    "duration_sec": 480,
+    "exercises": [
+      {
+        "name": "Приседания к стулу",
+        "work_sec": 60,
+        "rest_sec": 20,
+        "instruction": "Касайтесь стула тазом и вставайте."
+      },
+      {
+        "name": "Отжимания от стула",
+        "work_sec": 50,
+        "rest_sec": 20,
+        "instruction": "Стул не должен скользить. Руки на сиденье."
+      },
+      {
+        "name": "Подъём колена сидя",
+        "work_sec": 40,
+        "rest_sec": 20,
+        "instruction": "Спина опирается о спинку, движение спокойное."
+      },
+      {
+        "name": "Наклон сидя",
+        "work_sec": 40,
+        "rest_sec": 20,
+        "instruction": "Тянитесь к бедру, не округляя спину рывком."
+      },
+      {
+        "name": "Шаги на месте",
+        "work_sec": 70,
+        "rest_sec": 20,
+        "instruction": "Рядом со стулом, чтобы можно было опереться."
+      },
+      {
+        "name": "Растяжка икр у стены",
+        "work_sec": 100,
+        "rest_sec": 20,
+        "instruction": "Задняя пятка стремится к полу, колено прямое."
+      }
+    ],
+    "source_url": "https://www.who.int/news-room/fact-sheets/detail/physical-activity",
+    "reviewed_at": "2026-09-20"
+  },
+  {
+    "id": "w_out_light_10",
+    "title": "Лёгкая тренировка на улице",
+    "places": [
+      "outdoors"
+    ],
+    "required_equipment": [],
+    "intensity": "light",
+    "duration_sec": 600,
+    "exercises": [
+      {
+        "name": "Шаги на месте",
+        "work_sec": 80,
+        "rest_sec": 20,
+        "instruction": "Темп спокойный, руки двигаются свободно."
+      },
+      {
+        "name": "Приседания",
+        "work_sec": 80,
+        "rest_sec": 20,
+        "instruction": "Колени направлены в сторону носков."
+      },
+      {
+        "name": "Выпады назад с опорой",
+        "work_sec": 70,
+        "rest_sec": 30,
+        "instruction": "Держитесь за стену или стул. Шаг короткий."
+      },
+      {
+        "name": "Отжимания от стены",
+        "work_sec": 70,
+        "rest_sec": 30,
+        "instruction": "Не проваливайте поясницу."
+      },
+      {
+        "name": "Ягодичный мост на полу",
+        "work_sec": 70,
+        "rest_sec": 30,
+        "instruction": "Поднимайте таз до ровной линии, без рывка."
+      },
+      {
+        "name": "Спокойный шаг",
+        "work_sec": 80,
+        "rest_sec": 20,
+        "instruction": "Пройдите короткий отрезок и вернитесь."
+      }
+    ],
+    "source_url": "https://www.who.int/news-room/fact-sheets/detail/physical-activity",
+    "reviewed_at": "2026-09-20"
+  },
+  {
+    "id": "w_out_mod_10",
+    "title": "Умеренная тренировка на улице",
+    "places": [
+      "outdoors"
+    ],
+    "required_equipment": [],
+    "intensity": "moderate",
+    "duration_sec": 600,
+    "exercises": [
+      {
+        "name": "Шаги на месте",
+        "work_sec": 80,
+        "rest_sec": 20,
+        "instruction": "Темп спокойный, руки двигаются свободно."
+      },
+      {
+        "name": "Приседания",
+        "work_sec": 80,
+        "rest_sec": 20,
+        "instruction": "Колени направлены в сторону носков."
+      },
+      {
+        "name": "Выпады назад с опорой",
+        "work_sec": 70,
+        "rest_sec": 30,
+        "instruction": "Держитесь за стену или стул. Шаг короткий."
+      },
+      {
+        "name": "Отжимания от стены",
+        "work_sec": 70,
+        "rest_sec": 30,
+        "instruction": "Не проваливайте поясницу."
+      },
+      {
+        "name": "Ягодичный мост на полу",
+        "work_sec": 70,
+        "rest_sec": 30,
+        "instruction": "Поднимайте таз до ровной линии, без рывка."
+      },
+      {
+        "name": "Растяжка задней поверхности бедра",
+        "work_sec": 80,
+        "rest_sec": 20,
+        "instruction": "Тянитесь мягко, колено опорной ноги можно слегка согнуть."
+      }
+    ],
+    "source_url": "https://www.who.int/news-room/fact-sheets/detail/physical-activity",
+    "reviewed_at": "2026-09-20"
+  }
+]

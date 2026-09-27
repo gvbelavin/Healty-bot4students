@@ -1,0 +1,200 @@
+[
+  {
+    "id": "oats",
+    "name": "Овсяные хлопья",
+    "unit": "g",
+    "pack_price_kopecks": 6000,
+    "pack_quantity": 500,
+    "price_source": "учебная оценка розничной цены упаковки",
+    "price_date": "2026-09-20"
+  },
+  {
+    "id": "milk",
+    "name": "Молоко",
+    "unit": "ml",
+    "pack_price_kopecks": 9000,
+    "pack_quantity": 1000,
+    "price_source": "учебная оценка розничной цены упаковки",
+    "price_date": "2026-09-20"
+  },
+  {
+    "id": "banana",
+    "name": "Банан",
+    "unit": "piece",
+    "pack_price_kopecks": 2000,
+    "pack_quantity": 1,
+    "price_source": "учебная оценка розничной цены упаковки",
+    "price_date": "2026-09-20"
+  },
+  {
+    "id": "yogurt",
+    "name": "Йогурт",
+    "unit": "g",
+    "pack_price_kopecks": 8000,
+    "pack_quantity": 400,
+    "price_source": "учебная оценка розничной цены упаковки",
+    "price_date": "2026-09-20"
+  },
+  {
+    "id": "egg",
+    "name": "Яйцо",
+    "unit": "piece",
+    "pack_price_kopecks": 9000,
+    "pack_quantity": 10,
+    "price_source": "учебная оценка розничной цены упаковки",
+    "price_date": "2026-09-20"
+  },
+  {
+    "id": "bread",
+    "name": "Хлеб",
+    "unit": "piece",
+    "pack_price_kopecks": 5000,
+    "pack_quantity": 10,
+    "price_source": "учебная оценка розничной цены упаковки",
+    "price_date": "2026-09-20"
+  },
+  {
+    "id": "oil",
+    "name": "Растительное масло",
+    "unit": "ml",
+    "pack_price_kopecks": 12000,
+    "pack_quantity": 500,
+    "price_source": "учебная оценка розничной цены упаковки",
+    "price_date": "2026-09-20"
+  },
+  {
+    "id": "vegetables",
+    "name": "Овощная смесь",
+    "unit": "g",
+    "pack_price_kopecks": 10000,
+    "pack_quantity": 400,
+    "price_source": "учебная оценка розничной цены упаковки",
+    "price_date": "2026-09-20"
+  },
+  {
+    "id": "rice",
+    "name": "Рис",
+    "unit": "g",
+    "pack_price_kopecks": 9000,
+    "pack_quantity": 800,
+    "price_source": "учебная оценка розничной цены упаковки",
+    "price_date": "2026-09-20"
+  },
+  {
+    "id": "chicken",
+    "name": "Курица",
+    "unit": "g",
+    "pack_price_kopecks": 32000,
+    "pack_quantity": 1000,
+    "price_source": "учебная оценка розничной цены упаковки",
+    "price_date": "2026-09-20"
+  },
+  {
+    "id": "pasta",
+    "name": "Макароны",
+    "unit": "g",
+    "pack_price_kopecks": 7000,
+    "pack_quantity": 450,
+    "price_source": "учебная оценка розничной цены упаковки",
+    "price_date": "2026-09-20"
+  },
+  {
+    "id": "buckwheat",
+    "name": "Гречка",
+    "unit": "g",
+    "pack_price_kopecks": 8000,
+    "pack_quantity": 800,
+    "price_source": "учебная оценка розничной цены упаковки",
+    "price_date": "2026-09-20"
+  },
+  {
+    "id": "cottage",
+    "name": "Творог",
+    "unit": "g",
+    "pack_price_kopecks": 7000,
+    "pack_quantity": 200,
+    "price_source": "учебная оценка розничной цены упаковки",
+    "price_date": "2026-09-20"
+  },
+  {
+    "id": "apple",
+    "name": "Яблоко",
+    "unit": "piece",
+    "pack_price_kopecks": 1500,
+    "pack_quantity": 1,
+    "price_source": "учебная оценка розничной цены упаковки",
+    "price_date": "2026-09-20"
+  },
+  {
+    "id": "tuna",
+    "name": "Тунец консервированный",
+    "unit": "piece",
+    "pack_price_kopecks": 11000,
+    "pack_quantity": 1,
+    "price_source": "учебная оценка розничной цены упаковки",
+    "price_date": "2026-09-20"
+  },
+  {
+    "id": "cucumber",
+    "name": "Огурец",
+    "unit": "piece",
+    "pack_price_kopecks": 2000,
+    "pack_quantity": 1,
+    "price_source": "учебная оценка розничной цены упаковки",
+    "price_date": "2026-09-20"
+  },
+  {
+    "id": "potato",
+    "name": "Картофель",
+    "unit": "g",
+    "pack_price_kopecks": 4000,
+    "pack_quantity": 1000,
+    "price_source": "учебная оценка розничной цены упаковки",
+    "price_date": "2026-09-20"
+  },
+  {
+    "id": "onion",
+    "name": "Лук",
+    "unit": "g",
+    "pack_price_kopecks": 3000,
+    "pack_quantity": 500,
+    "price_source": "учебная оценка розничной цены упаковки",
+    "price_date": "2026-09-20"
+  },
+  {
+    "id": "dumplings",
+    "name": "Пельмени",
+    "unit": "g",
+    "pack_price_kopecks": 15000,
+    "pack_quantity": 500,
+    "price_source": "учебная оценка розничной цены упаковки",
+    "price_date": "2026-09-20"
+  },
+  {
+    "id": "noodles",
+    "name": "Лапша быстрого приготовления",
+    "unit": "piece",
+    "pack_price_kopecks": 4000,
+    "pack_quantity": 1,
+    "price_source": "учебная оценка розничной цены упаковки",
+    "price_date": "2026-09-20"
+  },
+  {
+    "id": "cheese",
+    "name": "Сыр",
+    "unit": "g",
+    "pack_price_kopecks": 14000,
+    "pack_quantity": 200,
+    "price_source": "учебная оценка розничной цены упаковки",
+    "price_date": "2026-09-20"
+  },
+  {
+    "id": "tea",
+    "name": "Чай",
+    "unit": "g",
+    "pack_price_kopecks": 8000,
+    "pack_quantity": 100,
+    "price_source": "учебная оценка розничной цены упаковки",
+    "price_date": "2026-09-20"
+  }
+]
